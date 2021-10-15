@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{0d96c3b1-cfe6-41af-bb39-6c2c7a95e6d9}">
+        <property name="assetPath">
+            <value>Loosing Air &amp; Finding Treasure MAIN MENU.ogg</value>
+        </property>
+        <property name="isStreaming">
+            <value>true</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>43.870975056689339</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{62257a07-f04d-45f2-86c6-938d69e41f41}</destination>
+        </relationship>
+    </object>
+</objects>
